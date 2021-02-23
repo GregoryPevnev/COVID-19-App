@@ -43,7 +43,9 @@ In addition to that, elderly people can also contact certain volunteers in their
 ##### Getting help
 
 ![Getting help](./screenshots/GetHelp.png)
+
 ![Getting help](./screenshots/GetHelp2.png)
+
 ![Getting help](./screenshots/GetHelp3.png)
 
 ##### Searching for volunteers
@@ -67,7 +69,9 @@ The users can also report guides as useful or not useful in order to change thei
 #### Screenshots
 
 ![Guides](./screenshots/Guides.png)
+
 ![Guides](./screenshots/Guides2.png)
+
 ![Guides](./screenshots/Guides3.png)
 
 ##### Guides search
