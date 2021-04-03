@@ -1,4 +1,4 @@
-# COVID-19 volunteering application
+# COVID-19 application
 
 ## About
 
@@ -10,7 +10,9 @@ Finally, the app also reports real-time statistics regarding the COVID-19 cases 
 
 ## Resources
 
-- [Interactive public prototype](https://www.figma.com/file/IhSm32vgboWVhIHyG4de1A/Assignment-2?node-id=0%3A1)
+- [Interactive public prototype (Version 1)](https://www.figma.com/file/IhSm32vgboWVhIHyG4de1A/Assignment-2?node-id=0%3A1)
+
+- [Interactive public prototype (Version 2)](https://www.figma.com/proto/Exqx1Nugzn7ZAHpijgxwIE/Assignment-3?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)
 
 - [Narrated video presentation](https://sheridanc-my.sharepoint.com/:v:/g/personal/pyevnyev_shernet_sheridancollege_ca/EeuhK5mml25Hsx3DW7lYbNMBk4LA8np1b20HFq8XxYD51g?e=pXxe04) - For Sheridan College members only (Uploaded to OneDrive)
 
@@ -44,10 +46,6 @@ In addition to that, elderly people can also contact certain volunteers in their
 
 ![Getting help](./screenshots/GetHelp.png)
 
-![Getting help](./screenshots/GetHelp2.png)
-
-![Getting help](./screenshots/GetHelp3.png)
-
 ##### Searching for volunteers
 
 ![Searching for volunteers](./screenshots/VolunteerSearch.png)
@@ -70,13 +68,17 @@ The users can also report guides as useful or not useful in order to change thei
 
 ![Guides](./screenshots/Guides.png)
 
-![Guides](./screenshots/Guides2.png)
+![Guides](./screenshots/TravelGuides.png)
 
-![Guides](./screenshots/Guides3.png)
+![Guides](./screenshots/AirplaneTravelGuide.png)
 
 ##### Guides search
 
 ![Guides search](./screenshots/GuidesSearch.png)
+
+##### Adding a guide
+
+![Adding a guide](./screenshots/AddGuide.png)
 
 ### Statistics
 
